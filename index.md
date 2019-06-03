@@ -17,9 +17,9 @@
 
 ---
 
-### Competition
+### Github Repositories
 
-- [Project 1 Title](http://example.com/)
+- [Face Mouse](https://github.com/Neetesh05/face_mouse/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
